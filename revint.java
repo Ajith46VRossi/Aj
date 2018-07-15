@@ -1,5 +1,5 @@
 import java.util.*;
-class rev
+class revint
 {
     public static void main(String args[])
     {
